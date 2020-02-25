@@ -19,3 +19,22 @@ li{
   display: inline;
   margin: 50px;
 }
+
+h1{
+  width: 300px;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 50%;
+  margin-right: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.aboutimg{
+  height: 600px;
+  width: 900px;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 350px;
+  transform: translate(-50%, -50%);
+}
